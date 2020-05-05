@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Calculator story","Multiple two numbers","ERROR","2020-05-05T17:52:37.5814836+07:00[Asia/Saigon]","0.0","9.3"
+"Calculator story","Show result of additional between any two numbers","ERROR","2020-05-05T17:52:47.7203674+07:00[Asia/Saigon]","0.0","4.61"
+"Calculator story","Subtract two numbers","ERROR","2020-05-05T17:52:52.4213827+07:00[Asia/Saigon]","0.0","4.53"
+"Calculator story","Divide two numbers","ERROR","2020-05-05T17:52:57.0400987+07:00[Asia/Saigon]","0.0","4.48"

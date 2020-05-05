@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="LearningSerenity.features.search.CalculatorStory" skipped="1" tests="5" time="17.48" timestamp="2020-05-05 05:53:50"><testcase classname="LearningSerenity.features.search.CalculatorStory" name="Multiple two numbers"/><testcase classname="LearningSerenity.features.search.CalculatorStory" name="Show result of additional between two numbers"><skipped/></testcase><testcase classname="LearningSerenity.features.search.CalculatorStory" name="Show result of additional between any two numbers"><failure message="&#10;Expected: a string ending with &quot;10&quot;&#10;     but: was &quot;=100&quot;" type="java.lang.AssertionError">
+Expected: a string ending with "10"
+     but: was "=100"</failure><system-err>
+Expected: a string ending with "10"
+     but: was "=100"&#13;
+LearningSerenity.features.search.CalculatorStory.show_result_of_additional_between_any_two_numbers(CalculatorStory.java:42)&#13;
+</system-err></testcase><testcase classname="LearningSerenity.features.search.CalculatorStory" name="Subtract two numbers"/><testcase classname="LearningSerenity.features.search.CalculatorStory" name="Divide two numbers"/></testsuite>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="LearningSerenity.features.search.ImplementCaculatorFunction" skipped="0" tests="1" time="0.76" timestamp="2020-05-02 09:46:19"><testcase classname="LearningSerenity.features.search.ImplementCaculatorFunction" name="Show result of additional between two numbers"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+LearningSerenity.tasks.OpenCaculatorTool.performAs(OpenCaculatorTool.java:14)&#13;
+LearningSerenity.features.search.ImplementCaculatorFunction.show_result_of_additional_between_two_numbers(ImplementCaculatorFunction.java:28)&#13;
+</system-err></testcase></testsuite>
